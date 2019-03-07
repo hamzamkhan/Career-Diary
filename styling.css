@@ -1,0 +1,23 @@
+.nav.navbar-nav.navbar-right li a{
+    color:white;
+}
+
+.navbar.navbar-default{
+	background: rgba(153, 0, 153,0.8);
+}
+
+.col-md-4.col-md-offset-4.well{
+	background: rgba(153, 0, 153,0.8); 
+	color:white;
+}
+
+.col-md-6.col-md-offset-3.well{
+	background: rgba(153, 0, 153,0.8); 
+	color:white;
+}
+.jumbotron.text-center{
+	background: url(Job-search-image.jpg);
+	background-size: cover; 
+	background-position: center; 
+	color:white;
+}
